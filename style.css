@@ -29,4 +29,7 @@ color: black;
 #myname {
 font-family: 'Courgette'cursive;
 }
-    
+  
+html {
+scroll-behavior: smooth;
+}
